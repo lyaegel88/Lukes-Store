@@ -5,7 +5,7 @@ This was a school project I made for a Java class. It uses Swing and a MySQL dat
 ![Lukes Sales Tracker](https://image.ibb.co/dBA8jo/lukes_store.png)
 
 ## Getting Started
-This can be a complicated process. In summary, Netbeans IDE and a MySQL database will be needed.
+This can be a complicated process. In summary, Netbeans IDE with Palette and a MySQL database will be needed.
 Next, a user account, tables, and columns will need to be created. After the database can be added to Netbeans. 
 After, the code will need to be updated to include the user credentials created. 
 
