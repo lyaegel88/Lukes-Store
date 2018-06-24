@@ -40,7 +40,7 @@ Columns:
 
 In the code, change the connection URL and credentials to your own in LukesStore.java:
 ```
-String url1 = "jdbc:mysql://localhost:3306/*your_database_here";
+String url1 = "jdbc:mysql://localhost:3306/*your_database_here*;
 String user = "username";
 String password = "password";
 ```
