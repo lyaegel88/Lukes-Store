@@ -38,17 +38,15 @@ Columns:
 * CustomerZip
 * CustomerPhone
 
-In the code, change the connection credentials to your own in LukesStore.java:
-
+In the code, change the connection URL and credentials to your own in LukesStore.java:
+```
+String url1 = "jdbc:mysql://localhost:3306/*your_database_here*;
+String user = "username";
+String password = "password";
+```
 Run the code.
 
 NOTE: Make sure the MySQL database is connected. A Google search can provide many examples on how to test the connection. 
-
-```
-String url1 = "jdbc:mysql://localhost:3306/store";
-String user = "ctuonline";
-String password = "student";
-```
 
 ### Prerequisites
 
