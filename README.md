@@ -1,14 +1,14 @@
 # Luke's Store
 
-This was a school project I made for a Java class. It's far from perfect, but is functional. Keep in mind, there is no for validation. 
-This is a great program for beginners who want to learn how to use a MySQL database with a Java GUI. 
+This was a school project I made for a Java class. It's far from perfect, but is functional. Keep in mind, there is no form validation. 
+This is a great program for beginners who want to learn how to use a MySQL database with a Java GUI. Note that is can be difficult to setup the MySQL Server if inexperienced. Doing a Google search or watching a YouTube tutorial may help. 
 
 This program uses Swing and a MySQL database. Components built with GUI Builder. 
 
 ![Lukes Sales Tracker](https://image.ibb.co/dBA8jo/lukes_store.png)
 
 ## Getting Started
-This can be a complicated process. In summary, Netbeans IDE and a MySQL database will be needed.
+This can be a complicated process. In summary, Netbeans IDE and a MySQL server/database will be needed.
 Next, a user account, tables, and columns will need to be created. After the database can be added to Netbeans. 
 After, the code will need to be updated to include the user credentials created. 
 
