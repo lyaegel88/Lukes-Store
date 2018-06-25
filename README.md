@@ -1,6 +1,9 @@
 # Luke's Store
 
-This was a school project I made for a Java class. It uses Swing and a MySQL database. Components built with GUI Builder. 
+This was a school project I made for a Java class. It's far from perfect, but is functional. Keep in mind, there is no for validation. 
+This is a great program for beginners who want to learn how to use a MySQL database with a Java GUI. 
+
+This program uses Swing and a MySQL database. Components built with GUI Builder. 
 
 ![Lukes Sales Tracker](https://image.ibb.co/dBA8jo/lukes_store.png)
 
